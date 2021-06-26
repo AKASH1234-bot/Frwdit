@@ -12,7 +12,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 async def start(client, message):
     buttons = [[
         InlineKeyboardButton('📜 Support Group', url='https://t.me/cinema_clubadmin12'),
-        InlineKeyboardButton('Update Channel ♻️', url='https://t.me/cinema_clubadmin123')
+        InlineKeyboardButton('Update Channel ♻️', url='https://t.me/cinema_clubadmin1')
     ],[
         InlineKeyboardButton('Developer', url='https://t.me/madshifter')
     ]]
